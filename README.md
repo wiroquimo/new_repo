@@ -1,2 +1,1 @@
-# new_repo
-Some nice description
+blah, blah, blah
